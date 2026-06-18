@@ -1,1 +1,2 @@
 {"id": "00fac659417c", "ts": "2026-06-18T16:41:21+00:00", "note": "Remarque de test — déploiement collecteur", "ua": "curl/8.14.1", "ip": "135.125.199.131", "game_commit": "5792e9a", "context": {"zone": "test", "viewport": "1280x720"}}
+{"id": "a62a8f4be013", "ts": "2026-06-18T16:47:41+00:00", "note": "Test 2 — collecteur en uid 1001", "ua": "curl/8.14.1", "ip": "135.125.199.131", "game_commit": "a4c931f", "context": {"visibles": ["ecran-titre"], "viewport": "800x600"}}
